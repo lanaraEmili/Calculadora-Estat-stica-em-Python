@@ -50,7 +50,7 @@ cd calculadora-estatistica
 
 # 📂 Estrutura do Projeto
 ```bash
-calculadora-estatistica/
+calculadora_estatistica_python/
 │
 ├── calculadora.py    # Código principal
 └── README.md         # Documentação
