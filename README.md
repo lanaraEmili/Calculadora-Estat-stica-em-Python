@@ -3,6 +3,8 @@
 Uma **Calculadora Estatística em Python** que calcula diversas métricas e gera relatórios em arquivos de texto!  
 Ideal para estudantes, iniciantes em Python ou quem quer aprender mais sobre estatística de forma prática. 📊
 
+![Python Logo](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+
 ---
 
 # 🚀 Funcionalidades
